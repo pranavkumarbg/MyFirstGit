@@ -149,11 +149,11 @@ public class MainActivity extends Activity {
                       
                      
                        
-                     pname.setText(question);
-                     price.setText(a);
-                     ak.setText(b);
-                     bk.setText(c);
-                     ck.setText(d);
+                 //    pname.setText(question);
+                  //   price.setText(a);
+                  //   ak.setText(b);
+                   //  bk.setText(c);
+                   //  ck.setText(d);
               
                   }
                       
