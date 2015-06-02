@@ -62,7 +62,7 @@ public class MainActivity extends Activity {
 		bk=(TextView)findViewById(R.id.textView4);
 		ck=(TextView)findViewById(R.id.textView5);
 		
-		new RequestTask().execute("http://env-6425390.jelasticlw.com.br/json");
+		//new RequestTask().execute("http://env-6425390.jelasticlw.com.br/json");
 		
 		//myImage.setImageUrl("http://www.chitramala.in/wp-content/uploads/2015/02/Sonakshi-Sinha-Anal-Arasu.jpg");
 		
